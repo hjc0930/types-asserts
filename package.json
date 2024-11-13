@@ -31,7 +31,9 @@
   ],
   "scripts": {
     "build": "gulp && webpack-cli",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:ui": "vitest --ui"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
