@@ -7,9 +7,8 @@
   "repository": "https://github.com/hjc0930/types-asserts",
   "homepage": "https://github.com/hjc0930/types-asserts",
   "keywords": [
-    "fetch",
-    "ajax",
-    "request"
+    "types",
+    "type asserts"
   ],
   "authors": {
     "name": "hjc",
